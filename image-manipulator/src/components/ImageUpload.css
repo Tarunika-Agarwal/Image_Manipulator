@@ -1,0 +1,11 @@
+/* src/components/ImageUpload.css */
+.dropzone {
+    border: 2px dashed #007bff;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: pointer;
+    text-align: center;
+    color: #007bff;
+    margin: 20px;
+  }
+  
