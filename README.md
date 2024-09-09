@@ -5,5 +5,6 @@ After clicking on the add image box, the file section on the desktop appears.
 ![image](https://github.com/user-attachments/assets/e9439508-1553-4d72-94ba-fa1652f28968)
 Happy resizing!
 Your image is ready.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d4c59bb3-687d-4417-8a19-8a51583aed6a)
+
 
